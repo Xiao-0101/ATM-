@@ -1,0 +1,16 @@
+{
+  "username": "xiao",
+  "password": "353d1fb1dcaed8691e2c89cdf3ebfa7b",
+  "salt": "1x0u",
+  "bank_id": "372397",
+  "bank_pwd": "353d1fb1dcaed8691e2c89cdf3ebfa7b",
+  "balance": 80000,
+  "flow": [
+    "用户【xiao】 存款【100000】成功，当前额度为115000",
+    "用户xiao 给用户 quan转账15000成功",
+    "用户消费金额：20000"
+  ],
+  "shop_car": {},
+  "locked": false,
+  "is_admin": true
+}

@@ -1,0 +1,16 @@
+{
+  "username": "quan",
+  "password": "b1db1f793a44d752b6317b3868fb0139",
+  "salt": "Ets6",
+  "bank_id": "358712",
+  "bank_pwd": "b1db1f793a44d752b6317b3868fb0139",
+  "balance": 29950.0,
+  "flow": [
+    "用户quan 提现金额【1000】成功，手续费为【50.0】",
+    "用户quan 接收用户 xiao转账1000成功",
+    "用户quan 接收用户 xiao转账15000成功"
+  ],
+  "shop_car": {},
+  "locked": false,
+  "is_admin": false
+}
